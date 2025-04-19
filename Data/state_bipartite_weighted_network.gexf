@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-04-16">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="0.0" label="0.0">
+        <attvalues>
+          <attvalue for="0" value="contributor" />
+        </attvalues>
+      </node>
+      <node id="AZ" label="AZ">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NY" label="NY">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="MT" label="MT">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NJ" label="NJ">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="CA" label="CA">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="CO" label="CO">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="MA" label="MA">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NC" label="NC">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="SC" label="SC">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="DC" label="DC">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="TN" label="TN">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="PA" label="PA">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="VA" label="VA">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="KY" label="KY">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="MO" label="MO">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="TX" label="TX">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="FL" label="FL">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NE" label="NE">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="SD" label="SD">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="ID" label="ID">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="UT" label="UT">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="OR" label="OR">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="AK" label="AK">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="XX" label="XX">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="MI" label="MI">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="MS" label="MS">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="IA" label="IA">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="KS" label="KS">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="IL" label="IL">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="MD" label="MD">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="OH" label="OH">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="WA" label="WA">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="LA" label="LA">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="GA" label="GA">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="WY" label="WY">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="CT" label="CT">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="IN" label="IN">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="OK" label="OK">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="ME" label="ME">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="AL" label="AL">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NH" label="NH">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NM" label="NM">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NV" label="NV">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="AR" label="AR">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="MN" label="MN">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="VT" label="VT">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="RI" label="RI">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="HI" label="HI">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="UN" label="UN">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="VI" label="VI">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="WI" label="WI">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="BI" label="BI">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="WV" label="WV">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="DE" label="DE">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="ND" label="ND">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NO" label="NO">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="NB" label="NB">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="ZZ" label="ZZ">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="CH" label="CH">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="ON" label="ON">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="PR" label="PR">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="MC" label="MC">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="VQ" label="VQ">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+      <node id="SN" label="SN">
+        <attvalues>
+          <attvalue for="0" value="state" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0.0" target="AZ" id="0" weight="7.81793537892" />
+      <edge source="0.0" target="NY" id="1" weight="5.29831736655" />
+      <edge source="0.0" target="MT" id="2" weight="4.60517018599" />
+      <edge source="0.0" target="NJ" id="3" weight="7.63658326075" />
+      <edge source="0.0" target="CA" id="4" weight="6.16304108237" />
+      <edge source="0.0" target="CO" id="5" weight="2.30258509299" />
+      <edge source="0.0" target="MA" id="6" weight="4.24606371686" />
+      <edge source="0.0" target="NC" id="7" weight="6.16304108237" />
+      <edge source="0.0" target="SC" id="8" weight="3.78123071518" />
+      <edge source="0.0" target="DC" id="9" weight="5.60785877335" />
+      <edge source="0.0" target="TN" id="10" weight="5.53417969027" />
+      <edge source="0.0" target="PA" id="11" weight="5.71396380193" />
+      <edge source="0.0" target="VA" id="12" weight="5.69150744378" />
+      <edge source="0.0" target="KY" id="13" weight="6.2273071234" />
+      <edge source="0.0" target="MO" id="14" weight="5.43925253347" />
+      <edge source="0.0" target="TX" id="15" weight="6.52095980363" />
+      <edge source="0.0" target="FL" id="16" weight="6.50555981974" />
+      <edge source="0.0" target="NE" id="17" weight="7.1987070003" />
+      <edge source="0.0" target="SD" id="18" weight="7.5049805927" />
+      <edge source="0.0" target="ID" id="19" weight="6.52414950523" />
+      <edge source="0.0" target="UT" id="20" weight="7.49894171367" />
+      <edge source="0.0" target="OR" id="21" weight="9.43405735884" />
+      <edge source="0.0" target="AK" id="22" weight="6.26782653853" />
+      <edge source="0.0" target="XX" id="23" weight="3.21887582487" />
+      <edge source="0.0" target="MI" id="24" weight="5.46991495998" />
+      <edge source="0.0" target="MS" id="25" weight="7.92298595871" />
+      <edge source="0.0" target="IA" id="26" weight="8.82519834394" />
+      <edge source="0.0" target="KS" id="27" weight="5.78228553614" />
+      <edge source="0.0" target="IL" id="28" weight="8.21267145775" />
+      <edge source="0.0" target="MD" id="29" weight="7.6632761391" />
+      <edge source="0.0" target="OH" id="30" weight="6.34182207815" />
+      <edge source="0.0" target="WA" id="31" weight="6.13242142743" />
+      <edge source="0.0" target="LA" id="32" weight="7.92417365891" />
+      <edge source="0.0" target="GA" id="33" weight="5.81239768803" />
+      <edge source="0.0" target="WY" id="34" weight="4.05560373391" />
+      <edge source="0.0" target="CT" id="35" weight="5.63799873411" />
+      <edge source="0.0" target="IN" id="36" weight="6.00807581291" />
+      <edge source="0.0" target="OK" id="37" weight="6.21460809842" />
+      <edge source="0.0" target="ME" id="38" weight="5.71141990179" />
+      <edge source="0.0" target="AL" id="39" weight="5.71396380193" />
+      <edge source="0.0" target="NH" id="40" weight="5.42552254078" />
+      <edge source="0.0" target="NM" id="41" weight="6.98625217712" />
+      <edge source="0.0" target="NV" id="42" weight="6.11869173493" />
+      <edge source="0.0" target="AR" id="43" weight="4.57409223042" />
+      <edge source="0.0" target="MN" id="44" weight="5.53772789033" />
+      <edge source="0.0" target="VT" id="45" weight="7.16985027643" />
+      <edge source="0.0" target="RI" id="46" weight="6.16304108237" />
+      <edge source="0.0" target="HI" id="47" weight="9.03394442403" />
+      <edge source="0.0" target="UN" id="48" weight="6.38465462434" />
+      <edge source="0.0" target="VI" id="49" weight="5.33484214123" />
+      <edge source="0.0" target="WI" id="50" weight="7.61360642141" />
+      <edge source="0.0" target="BI" id="51" weight="5.07517381523" />
+      <edge source="0.0" target="WV" id="52" weight="6.13122648948" />
+      <edge source="0.0" target="DE" id="53" weight="6.14851103005" />
+      <edge source="0.0" target="ND" id="54" weight="5.60785877335" />
+      <edge source="0.0" target="NO" id="55" weight="6.50555981974" />
+      <edge source="0.0" target="NB" id="56" weight="6.87667732341" />
+      <edge source="0.0" target="ZZ" id="57" weight="5.49038296229" />
+      <edge source="0.0" target="CH" id="58" weight="8.22794455922" />
+      <edge source="0.0" target="ON" id="59" weight="7.79296392901" />
+      <edge source="0.0" target="PR" id="60" weight="6.21460809842" />
+      <edge source="0.0" target="MC" id="61" weight="6.90775527898" />
+      <edge source="0.0" target="VQ" id="62" weight="5.63767828405" />
+      <edge source="0.0" target="SN" id="63" weight="6.50555981974" />
+    </edges>
+  </graph>
+</gexf>
