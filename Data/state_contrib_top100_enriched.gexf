@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-04-17">
+  <meta lastmodifieddate="2025-04-19">
     <creator>NetworkX 3.4.2</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -22,7 +22,7 @@
       <node id="HANCE, KENT R AUSTIN 78701 TX" label="HANCE, KENT R AUSTIN 78701 TX">
         <attvalues>
           <attvalue for="0" value="25" />
-          <attvalue for="1" value="58448687.019999966" />
+          <attvalue for="1" value="58448687.01999995" />
           <attvalue for="2" value="0.006524649330856965" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -70,7 +70,7 @@
       <node id="KRAMER, ORIN S NEW YORK 10022 NY" label="KRAMER, ORIN S NEW YORK 10022 NY">
         <attvalues>
           <attvalue for="0" value="51" />
-          <attvalue for="1" value="53963131.33000003" />
+          <attvalue for="1" value="53963131.33000001" />
           <attvalue for="2" value="0.006437503415192071" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -102,7 +102,7 @@
       <node id="MURPHY, MARK B ROSWELL 88202 NM" label="MURPHY, MARK B ROSWELL 88202 NM">
         <attvalues>
           <attvalue for="0" value="10" />
-          <attvalue for="1" value="911170.6000000001" />
+          <attvalue for="1" value="911170.6" />
           <attvalue for="2" value="0.004073939862866894" />
           <attvalue for="3" value="6" />
         </attvalues>
@@ -118,7 +118,7 @@
       <node id="MEARA, BRIAN R BAYSIDE 11361 NY" label="MEARA, BRIAN R BAYSIDE 11361 NY">
         <attvalues>
           <attvalue for="0" value="30" />
-          <attvalue for="1" value="52298395.99000003" />
+          <attvalue for="1" value="52298395.99000004" />
           <attvalue for="2" value="0.006560770467162039" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -126,7 +126,7 @@
       <node id="SANDEL, JERRY W FARMINGTON 87401 NM" label="SANDEL, JERRY W FARMINGTON 87401 NM">
         <attvalues>
           <attvalue for="0" value="12" />
-          <attvalue for="1" value="4058717.4700000007" />
+          <attvalue for="1" value="4058717.47" />
           <attvalue for="2" value="0.007798173436219703" />
           <attvalue for="3" value="6" />
         </attvalues>
@@ -134,7 +134,7 @@
       <node id="BALBONI FOR SENATE DIX HILLS 11746 NY" label="BALBONI FOR SENATE DIX HILLS 11746 NY">
         <attvalues>
           <attvalue for="0" value="17" />
-          <attvalue for="1" value="9657650.780000003" />
+          <attvalue for="1" value="9657650.780000005" />
           <attvalue for="2" value="0.001948507169591536" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -166,7 +166,7 @@
       <node id="CAMDEN COUNTY DEMOCRATIC CENTRAL CMTE OF NEW JERSEY CHERRY HILL 8003 NJ" label="CAMDEN COUNTY DEMOCRATIC CENTRAL CMTE OF NEW JERSEY CHERRY HILL 8003 NJ">
         <attvalues>
           <attvalue for="0" value="12" />
-          <attvalue for="1" value="9614788.339999998" />
+          <attvalue for="1" value="9614788.34" />
           <attvalue for="2" value="0.0015787586959246547" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -182,7 +182,7 @@
       <node id="NORTH CAROLINA ADVOCATES FOR JUSTICE RALEIGH 27605 NC" label="NORTH CAROLINA ADVOCATES FOR JUSTICE RALEIGH 27605 NC">
         <attvalues>
           <attvalue for="0" value="21" />
-          <attvalue for="1" value="33868190.85000022" />
+          <attvalue for="1" value="33868190.850000225" />
           <attvalue for="2" value="0.01500634272494155" />
           <attvalue for="3" value="4" />
         </attvalues>
@@ -198,7 +198,7 @@
       <node id="BRACEWELL &amp; GIULIANI HOUSTON 77002 TX" label="BRACEWELL &amp; GIULIANI HOUSTON 77002 TX">
         <attvalues>
           <attvalue for="0" value="26" />
-          <attvalue for="1" value="89511146.32000025" />
+          <attvalue for="1" value="89511146.32000026" />
           <attvalue for="2" value="0.007057153982717719" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -206,7 +206,7 @@
       <node id="BARNHILL JR, ROBERT E (BOB) TARBORO 27886 NC" label="BARNHILL JR, ROBERT E (BOB) TARBORO 27886 NC">
         <attvalues>
           <attvalue for="0" value="20" />
-          <attvalue for="1" value="10384050.330000004" />
+          <attvalue for="1" value="10384050.330000002" />
           <attvalue for="2" value="0.004805113618236443" />
           <attvalue for="3" value="4" />
         </attvalues>
@@ -230,7 +230,7 @@
       <node id="GEORGIA APARTMENT ASSOCIATION ATLANTA 30350 GA" label="GEORGIA APARTMENT ASSOCIATION ATLANTA 30350 GA">
         <attvalues>
           <attvalue for="0" value="7" />
-          <attvalue for="1" value="3473183.510000015" />
+          <attvalue for="1" value="3473183.5100000156" />
           <attvalue for="2" value="0.011490818636459073" />
           <attvalue for="3" value="9" />
         </attvalues>
@@ -262,7 +262,7 @@
       <node id="SEIU HEALTHCARE ILLINOIS / INDIANA CHICAGO 60604 IL" label="SEIU HEALTHCARE ILLINOIS / INDIANA CHICAGO 60604 IL">
         <attvalues>
           <attvalue for="0" value="6" />
-          <attvalue for="1" value="1657217.5799999973" />
+          <attvalue for="1" value="1657217.579999997" />
           <attvalue for="2" value="0.0016209656354319352" />
           <attvalue for="3" value="5" />
         </attvalues>
@@ -286,7 +286,7 @@
       <node id="SHAMI, FAROUK M THE WOODLANDS 77380 TX" label="SHAMI, FAROUK M THE WOODLANDS 77380 TX">
         <attvalues>
           <attvalue for="0" value="11" />
-          <attvalue for="1" value="879605.75" />
+          <attvalue for="1" value="879605.7499999999" />
           <attvalue for="2" value="0.0009613950742228493" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -310,7 +310,7 @@
       <node id="ONE VIRGINIA PAC RICHMOND 23218 VA" label="ONE VIRGINIA PAC RICHMOND 23218 VA">
         <attvalues>
           <attvalue for="0" value="8" />
-          <attvalue for="1" value="6964607.86000001" />
+          <attvalue for="1" value="6964607.860000009" />
           <attvalue for="2" value="0.002586503876431749" />
           <attvalue for="3" value="3" />
         </attvalues>
@@ -318,7 +318,7 @@
       <node id="NEW YORK DEMOCRATIC SENATE CAMPAIGN CMTE ALBANY 12210 NY" label="NEW YORK DEMOCRATIC SENATE CAMPAIGN CMTE ALBANY 12210 NY">
         <attvalues>
           <attvalue for="0" value="16" />
-          <attvalue for="1" value="13164504.879999997" />
+          <attvalue for="1" value="13164504.879999999" />
           <attvalue for="2" value="0.002245039480846236" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -390,7 +390,7 @@
       <node id="NEW JERSEY BANKERS ASSOCIATION PRINCETON 8542 NJ" label="NEW JERSEY BANKERS ASSOCIATION PRINCETON 8542 NJ">
         <attvalues>
           <attvalue for="0" value="22" />
-          <attvalue for="1" value="56400413.500000075" />
+          <attvalue for="1" value="56400413.50000009" />
           <attvalue for="2" value="0.005087411556368732" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -406,7 +406,7 @@
       <node id="THOMPSON &amp; KNIGHT DALLAS 75201 TX" label="THOMPSON &amp; KNIGHT DALLAS 75201 TX">
         <attvalues>
           <attvalue for="0" value="16" />
-          <attvalue for="1" value="45160574.980000086" />
+          <attvalue for="1" value="45160574.98000009" />
           <attvalue for="2" value="0.004003180619542594" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -470,7 +470,7 @@
       <node id="PLUMBERS &amp; PIPEFITTERS LOCAL 597 CHICAGO 60607 IL" label="PLUMBERS &amp; PIPEFITTERS LOCAL 597 CHICAGO 60607 IL">
         <attvalues>
           <attvalue for="0" value="8" />
-          <attvalue for="1" value="11890463.939999998" />
+          <attvalue for="1" value="11890463.94" />
           <attvalue for="2" value="0.006527797925434608" />
           <attvalue for="3" value="5" />
         </attvalues>
@@ -478,7 +478,7 @@
       <node id="LINBARGER GOGGAN BLAIR &amp; SAMPSON AUSTIN 78760 TX" label="LINBARGER GOGGAN BLAIR &amp; SAMPSON AUSTIN 78760 TX">
         <attvalues>
           <attvalue for="0" value="57" />
-          <attvalue for="1" value="168929685.03999728" />
+          <attvalue for="1" value="168929685.03999725" />
           <attvalue for="2" value="0.017310205956412892" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -486,7 +486,7 @@
       <node id="WEST NEW YORK MUNICIPAL DEMOCRATIC CMTE WEST NEW YORK 7093 NJ" label="WEST NEW YORK MUNICIPAL DEMOCRATIC CMTE WEST NEW YORK 7093 NJ">
         <attvalues>
           <attvalue for="0" value="8" />
-          <attvalue for="1" value="3561259.3400000012" />
+          <attvalue for="1" value="3561259.3400000003" />
           <attvalue for="2" value="0.0011179879814299408" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -502,7 +502,7 @@
       <node id="BLUE CROSS BLUE SHIELD OF NORTH CAROLINA DURHAM 27702 NC" label="BLUE CROSS BLUE SHIELD OF NORTH CAROLINA DURHAM 27702 NC">
         <attvalues>
           <attvalue for="0" value="24" />
-          <attvalue for="1" value="34275687.88000021" />
+          <attvalue for="1" value="34275687.8800002" />
           <attvalue for="2" value="0.01463193083668551" />
           <attvalue for="3" value="4" />
         </attvalues>
@@ -574,7 +574,7 @@
       <node id="CENTURYLINK RALEIGH 27601 NC" label="CENTURYLINK RALEIGH 27601 NC">
         <attvalues>
           <attvalue for="0" value="69" />
-          <attvalue for="1" value="282153328.9199998" />
+          <attvalue for="1" value="282153328.9199997" />
           <attvalue for="2" value="0.02497040071782722" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -590,7 +590,7 @@
       <node id="RILEY, JAMES M (JIM) SAINT LOUIS 63124 MO" label="RILEY, JAMES M (JIM) SAINT LOUIS 63124 MO">
         <attvalues>
           <attvalue for="0" value="4" />
-          <attvalue for="1" value="281617.68999999994" />
+          <attvalue for="1" value="281617.69" />
           <attvalue for="2" value="0.00332312085178217" />
           <attvalue for="3" value="7" />
         </attvalues>
@@ -598,7 +598,7 @@
       <node id="NEW JERSEY EDUCATION ASSOCIATION TRENTON 8608 NJ" label="NEW JERSEY EDUCATION ASSOCIATION TRENTON 8608 NJ">
         <attvalues>
           <attvalue for="0" value="19" />
-          <attvalue for="1" value="49730375.93" />
+          <attvalue for="1" value="49730375.93000001" />
           <attvalue for="2" value="0.004480317455328393" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -630,7 +630,7 @@
       <node id="NORTH CAROLINA BANKERS ASSOCIATION RALEIGH 27619 NC" label="NORTH CAROLINA BANKERS ASSOCIATION RALEIGH 27619 NC">
         <attvalues>
           <attvalue for="0" value="17" />
-          <attvalue for="1" value="25833950.180000138" />
+          <attvalue for="1" value="25833950.180000134" />
           <attvalue for="2" value="0.010414001680027554" />
           <attvalue for="3" value="4" />
         </attvalues>
@@ -646,7 +646,7 @@
       <node id="RONALD L BOOK PA AVENTURA 33180 FL" label="RONALD L BOOK PA AVENTURA 33180 FL">
         <attvalues>
           <attvalue for="0" value="20" />
-          <attvalue for="1" value="73403989.87999716" />
+          <attvalue for="1" value="73403989.87999718" />
           <attvalue for="2" value="0.008313447130581865" />
           <attvalue for="3" value="8" />
         </attvalues>
@@ -678,7 +678,7 @@
       <node id="REYES, JUDE MCLEAN 22102 VA" label="REYES, JUDE MCLEAN 22102 VA">
         <attvalues>
           <attvalue for="0" value="5" />
-          <attvalue for="1" value="1180466.14" />
+          <attvalue for="1" value="1180466.1400000001" />
           <attvalue for="2" value="0.0012391433894259588" />
           <attvalue for="3" value="3" />
         </attvalues>
@@ -702,7 +702,7 @@
       <node id="MCMURTRIE JR, ALEXANDER B RICHMOND 23235 VA" label="MCMURTRIE JR, ALEXANDER B RICHMOND 23235 VA">
         <attvalues>
           <attvalue for="0" value="4" />
-          <attvalue for="1" value="65648.23" />
+          <attvalue for="1" value="65648.23000000001" />
           <attvalue for="2" value="0.0009179695082283345" />
           <attvalue for="3" value="3" />
         </attvalues>
@@ -710,7 +710,7 @@
       <node id="PLUMMER, ROBERT EDWARDSVILLE 62025 IL" label="PLUMMER, ROBERT EDWARDSVILLE 62025 IL">
         <attvalues>
           <attvalue for="0" value="5" />
-          <attvalue for="1" value="1958278.699999999" />
+          <attvalue for="1" value="1958278.6999999988" />
           <attvalue for="2" value="0.0018333092501447209" />
           <attvalue for="3" value="5" />
         </attvalues>
@@ -718,7 +718,7 @@
       <node id="SUNTRUST BANK TALLAHASSEE 32301 FL" label="SUNTRUST BANK TALLAHASSEE 32301 FL">
         <attvalues>
           <attvalue for="0" value="18" />
-          <attvalue for="1" value="104054367.4599988" />
+          <attvalue for="1" value="104054367.45999882" />
           <attvalue for="2" value="0.010412962954828029" />
           <attvalue for="3" value="8" />
         </attvalues>
@@ -726,7 +726,7 @@
       <node id="FUEL MERCHANTS ASSOCIATION OF NEW JERSEY SPRINGFIELD 7081 NJ" label="FUEL MERCHANTS ASSOCIATION OF NEW JERSEY SPRINGFIELD 7081 NJ">
         <attvalues>
           <attvalue for="0" value="23" />
-          <attvalue for="1" value="291248314.5899997" />
+          <attvalue for="1" value="291248314.58999974" />
           <attvalue for="2" value="0.015275677684927602" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -750,7 +750,7 @@
       <node id="OPEERATING ENGINEERS LOCAL 825 SPRINGFIELD 7081 NJ" label="OPEERATING ENGINEERS LOCAL 825 SPRINGFIELD 7081 NJ">
         <attvalues>
           <attvalue for="0" value="39" />
-          <attvalue for="1" value="218913765.94000053" />
+          <attvalue for="1" value="218913765.9400005" />
           <attvalue for="2" value="0.011555615921059088" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -774,7 +774,7 @@
       <node id="DE LA GARZA, MR ELIAS HOUSTON 77023 TX" label="DE LA GARZA, MR ELIAS HOUSTON 77023 TX">
         <attvalues>
           <attvalue for="0" value="10" />
-          <attvalue for="1" value="6890613.099999997" />
+          <attvalue for="1" value="6890613.099999998" />
           <attvalue for="2" value="0.001345307407089472" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -798,7 +798,7 @@
       <node id="DONNELLY, MARGARET T SAINT LOUIS 63117 MO" label="DONNELLY, MARGARET T SAINT LOUIS 63117 MO">
         <attvalues>
           <attvalue for="0" value="7" />
-          <attvalue for="1" value="1026999.3800000004" />
+          <attvalue for="1" value="1026999.3800000005" />
           <attvalue for="2" value="0.00785248234912522" />
           <attvalue for="3" value="7" />
         </attvalues>
@@ -814,7 +814,7 @@
       <node id="VIRGINIA CREDIT UNION LEAGUE LYNCHBURG 24506 VA" label="VIRGINIA CREDIT UNION LEAGUE LYNCHBURG 24506 VA">
         <attvalues>
           <attvalue for="0" value="18" />
-          <attvalue for="1" value="63231043.2899996" />
+          <attvalue for="1" value="63231043.28999959" />
           <attvalue for="2" value="0.013061491596468225" />
           <attvalue for="3" value="3" />
         </attvalues>
@@ -846,7 +846,7 @@
       <node id="SENATE REPUBLICAN MAJORITY CMTE OF NEW JERSEY TRENTON 8608 NJ" label="SENATE REPUBLICAN MAJORITY CMTE OF NEW JERSEY TRENTON 8608 NJ">
         <attvalues>
           <attvalue for="0" value="13" />
-          <attvalue for="1" value="11507660.63" />
+          <attvalue for="1" value="11507660.629999999" />
           <attvalue for="2" value="0.0017922383975578944" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -878,7 +878,7 @@
       <node id="CALIFORNIA APARTMENT ASSOCIATION SACRAMENTO 95814 CA" label="CALIFORNIA APARTMENT ASSOCIATION SACRAMENTO 95814 CA">
         <attvalues>
           <attvalue for="0" value="17" />
-          <attvalue for="1" value="23143738.330000117" />
+          <attvalue for="1" value="23143738.33000012" />
           <attvalue for="2" value="0.006392603998729868" />
           <attvalue for="3" value="10" />
         </attvalues>
@@ -886,7 +886,7 @@
       <node id="ILLINOIS TRIAL LAWYERS ASSOCIATION SPRINGFIELD 62704 IL" label="ILLINOIS TRIAL LAWYERS ASSOCIATION SPRINGFIELD 62704 IL">
         <attvalues>
           <attvalue for="0" value="9" />
-          <attvalue for="1" value="22437377.359999973" />
+          <attvalue for="1" value="22437377.359999977" />
           <attvalue for="2" value="0.01113783763827192" />
           <attvalue for="3" value="5" />
         </attvalues>
@@ -926,7 +926,7 @@
       <node id="AMERICAN INSTITUTE OF ARCHITECTS TEXAS AUSTIN 78701 TX" label="AMERICAN INSTITUTE OF ARCHITECTS TEXAS AUSTIN 78701 TX">
         <attvalues>
           <attvalue for="0" value="21" />
-          <attvalue for="1" value="104841567.46999961" />
+          <attvalue for="1" value="104841567.46999964" />
           <attvalue for="2" value="0.008132717149219364" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -1038,7 +1038,7 @@
       <node id="FORD, GERALD J DALLAS 75201 TX" label="FORD, GERALD J DALLAS 75201 TX">
         <attvalues>
           <attvalue for="0" value="46" />
-          <attvalue for="1" value="219031556.03" />
+          <attvalue for="1" value="219031556.02999997" />
           <attvalue for="2" value="0.0157283258800139" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -1086,7 +1086,7 @@
       <node id="NEW JERSEY EDUCATION ASSOCIATION TRENTON 8607 NJ" label="NEW JERSEY EDUCATION ASSOCIATION TRENTON 8607 NJ">
         <attvalues>
           <attvalue for="0" value="24" />
-          <attvalue for="1" value="306686506.8699998" />
+          <attvalue for="1" value="306686506.86999977" />
           <attvalue for="2" value="0.016644400048079207" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -1094,7 +1094,7 @@
       <node id="TEXAS TRIAL LAWYERS ASSOCIATION AUSTIN 78767 TX" label="TEXAS TRIAL LAWYERS ASSOCIATION AUSTIN 78767 TX">
         <attvalues>
           <attvalue for="0" value="20" />
-          <attvalue for="1" value="75908753.37000002" />
+          <attvalue for="1" value="75908753.37" />
           <attvalue for="2" value="0.006778312140242449" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -1142,7 +1142,7 @@
       <node id="LONG, MICKEY L MIDLAND 79702 TX" label="LONG, MICKEY L MIDLAND 79702 TX">
         <attvalues>
           <attvalue for="0" value="16" />
-          <attvalue for="1" value="161710074.45000005" />
+          <attvalue for="1" value="161710074.45000008" />
           <attvalue for="2" value="0.00927122768800162" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -1158,7 +1158,7 @@
       <node id="FLORIDA REPUBLICAN PARTY TALLAHASSEE 32301 FL" label="FLORIDA REPUBLICAN PARTY TALLAHASSEE 32301 FL">
         <attvalues>
           <attvalue for="0" value="11" />
-          <attvalue for="1" value="110261119.23999862" />
+          <attvalue for="1" value="110261119.23999864" />
           <attvalue for="2" value="0.010477874689969233" />
           <attvalue for="3" value="8" />
         </attvalues>
@@ -1174,7 +1174,7 @@
       <node id="FOLEY SR, THOMAS COLEMAN (TOM) GREENWICH 6831 CT" label="FOLEY SR, THOMAS COLEMAN (TOM) GREENWICH 6831 CT">
         <attvalues>
           <attvalue for="0" value="22" />
-          <attvalue for="1" value="37539336.29" />
+          <attvalue for="1" value="37539336.28999999" />
           <attvalue for="2" value="0.011087091707317476" />
           <attvalue for="3" value="3" />
         </attvalues>
@@ -1182,7 +1182,7 @@
       <node id="HALL II, DUANE R RALEIGH 27606 NC" label="HALL II, DUANE R RALEIGH 27606 NC">
         <attvalues>
           <attvalue for="0" value="5" />
-          <attvalue for="1" value="186516.72999999995" />
+          <attvalue for="1" value="186516.72999999992" />
           <attvalue for="2" value="0.0009906519728448858" />
           <attvalue for="3" value="4" />
         </attvalues>
@@ -1190,7 +1190,7 @@
       <node id="NEW YORK STATE SUPREME COURT OFFICERS ASSOCIATION NEW YORK 10007 NY" label="NEW YORK STATE SUPREME COURT OFFICERS ASSOCIATION NEW YORK 10007 NY">
         <attvalues>
           <attvalue for="0" value="30" />
-          <attvalue for="1" value="57454601.57000009" />
+          <attvalue for="1" value="57454601.5700001" />
           <attvalue for="2" value="0.007011119988314566" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -1214,7 +1214,7 @@
       <node id="CASTAGNA, FRANK MANHASSET 11030 NY" label="CASTAGNA, FRANK MANHASSET 11030 NY">
         <attvalues>
           <attvalue for="0" value="31" />
-          <attvalue for="1" value="59169576.660000056" />
+          <attvalue for="1" value="59169576.66000006" />
           <attvalue for="2" value="0.006666333750480069" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -1222,7 +1222,7 @@
       <node id="WASHINGTON STATE DEMOCRATIC PARTY SEATTLE 98194 WA" label="WASHINGTON STATE DEMOCRATIC PARTY SEATTLE 98194 WA">
         <attvalues>
           <attvalue for="0" value="7" />
-          <attvalue for="1" value="8217652.370000002" />
+          <attvalue for="1" value="8217652.370000001" />
           <attvalue for="2" value="0.0029545358361009206" />
           <attvalue for="3" value="5" />
         </attvalues>
@@ -1254,7 +1254,7 @@
       <node id="CALIFORNIA MORTGAGE BANKERS ASSOCIATION SACRAMENTO 95814 CA" label="CALIFORNIA MORTGAGE BANKERS ASSOCIATION SACRAMENTO 95814 CA">
         <attvalues>
           <attvalue for="0" value="5" />
-          <attvalue for="1" value="16103611.63999999" />
+          <attvalue for="1" value="16103611.639999991" />
           <attvalue for="2" value="0.004766957798319498" />
           <attvalue for="3" value="10" />
         </attvalues>
@@ -1262,7 +1262,7 @@
       <node id="CARPENTERS &amp; JOINERS DISTRICT COUNCIL OF DC &amp; NEW YORK NEW YORK 10014 NY" label="CARPENTERS &amp; JOINERS DISTRICT COUNCIL OF DC &amp; NEW YORK NEW YORK 10014 NY">
         <attvalues>
           <attvalue for="0" value="44" />
-          <attvalue for="1" value="79664374.67000017" />
+          <attvalue for="1" value="79664374.6700002" />
           <attvalue for="2" value="0.009928951289262834" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -1270,7 +1270,7 @@
       <node id="ROVT, OLGA BROOKLYN 11234 NY" label="ROVT, OLGA BROOKLYN 11234 NY">
         <attvalues>
           <attvalue for="0" value="20" />
-          <attvalue for="1" value="17343979.599999987" />
+          <attvalue for="1" value="17343979.59999999" />
           <attvalue for="2" value="0.002493319857285692" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -1294,7 +1294,7 @@
       <node id="CLIFFORD LAW OFFICES CHICAGO 60602 IL" label="CLIFFORD LAW OFFICES CHICAGO 60602 IL">
         <attvalues>
           <attvalue for="0" value="23" />
-          <attvalue for="1" value="23014385.850000013" />
+          <attvalue for="1" value="23014385.85000001" />
           <attvalue for="2" value="0.008921790552724802" />
           <attvalue for="3" value="5" />
         </attvalues>
@@ -1302,7 +1302,7 @@
       <node id="SOLES JR, ROBERT (R C) TABOR CITY 28463 NC" label="SOLES JR, ROBERT (R C) TABOR CITY 28463 NC">
         <attvalues>
           <attvalue for="0" value="13" />
-          <attvalue for="1" value="5442890.940000001" />
+          <attvalue for="1" value="5442890.94" />
           <attvalue for="2" value="0.002928668176511562" />
           <attvalue for="3" value="4" />
         </attvalues>
@@ -1310,7 +1310,7 @@
       <node id="VIRGINIA REPUBLICAN PARTY RICHMOND 23219 VA" label="VIRGINIA REPUBLICAN PARTY RICHMOND 23219 VA">
         <attvalues>
           <attvalue for="0" value="11" />
-          <attvalue for="1" value="53068024.479999766" />
+          <attvalue for="1" value="53068024.47999977" />
           <attvalue for="2" value="0.01040646329247759" />
           <attvalue for="3" value="3" />
         </attvalues>
@@ -1342,7 +1342,7 @@
       <node id="TRUMP, DONALD J NEW YORK 10022 NY" label="TRUMP, DONALD J NEW YORK 10022 NY">
         <attvalues>
           <attvalue for="0" value="71" />
-          <attvalue for="1" value="108405054.21999988" />
+          <attvalue for="1" value="108405054.21999986" />
           <attvalue for="2" value="0.013648006541110033" />
           <attvalue for="3" value="8" />
         </attvalues>
@@ -1358,7 +1358,7 @@
       <node id="NEW JERSEY ASSOCIATION OF REALTORS EDISON 8818 NJ" label="NEW JERSEY ASSOCIATION OF REALTORS EDISON 8818 NJ">
         <attvalues>
           <attvalue for="0" value="23" />
-          <attvalue for="1" value="61471569.97999992" />
+          <attvalue for="1" value="61471569.97999993" />
           <attvalue for="2" value="0.005796408479806444" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -1382,7 +1382,7 @@
       <node id="CITIZENS FOR HIGHER EDUCATION RALEIGH 27614 NC" label="CITIZENS FOR HIGHER EDUCATION RALEIGH 27614 NC">
         <attvalues>
           <attvalue for="0" value="14" />
-          <attvalue for="1" value="24164663.30000013" />
+          <attvalue for="1" value="24164663.300000127" />
           <attvalue for="2" value="0.009773474994172556" />
           <attvalue for="3" value="4" />
         </attvalues>
@@ -1390,7 +1390,7 @@
       <node id="PRINCETON PUBLIC AFFAIRS GROUP TRENTON 8608 NJ" label="PRINCETON PUBLIC AFFAIRS GROUP TRENTON 8608 NJ">
         <attvalues>
           <attvalue for="0" value="26" />
-          <attvalue for="1" value="71096298.62" />
+          <attvalue for="1" value="71096298.62000002" />
           <attvalue for="2" value="0.006087416865730153" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -1398,7 +1398,7 @@
       <node id="MISSOURI ASSOCIATION OF TRIAL ATTORNEYS JEFFERSON CITY 65102 MO" label="MISSOURI ASSOCIATION OF TRIAL ATTORNEYS JEFFERSON CITY 65102 MO">
         <attvalues>
           <attvalue for="0" value="5" />
-          <attvalue for="1" value="276334.4300000002" />
+          <attvalue for="1" value="276334.43000000017" />
           <attvalue for="2" value="0.00276272715349754" />
           <attvalue for="3" value="7" />
         </attvalues>
@@ -1406,7 +1406,7 @@
       <node id="BALDOR, JORGE DALLAS 75219 TX" label="BALDOR, JORGE DALLAS 75219 TX">
         <attvalues>
           <attvalue for="0" value="6" />
-          <attvalue for="1" value="594535.75" />
+          <attvalue for="1" value="594535.7499999999" />
           <attvalue for="2" value="0.0009461578655236965" />
           <attvalue for="3" value="1" />
         </attvalues>
@@ -1446,7 +1446,7 @@
       <node id="NEW YORK STATE DEMOCRATIC PARTY NEW YORK 10010 NY" label="NEW YORK STATE DEMOCRATIC PARTY NEW YORK 10010 NY">
         <attvalues>
           <attvalue for="0" value="17" />
-          <attvalue for="1" value="21116326.6" />
+          <attvalue for="1" value="21116326.599999998" />
           <attvalue for="2" value="0.0033097725266458193" />
           <attvalue for="3" value="2" />
         </attvalues>
@@ -1478,7 +1478,7 @@
       <node id="CORZINE, JON S HOBOKEN 7030 NJ" label="CORZINE, JON S HOBOKEN 7030 NJ">
         <attvalues>
           <attvalue for="0" value="21" />
-          <attvalue for="1" value="376186638.9100003" />
+          <attvalue for="1" value="376186638.9100002" />
           <attvalue for="2" value="0.01656537807312063" />
           <attvalue for="3" value="0" />
         </attvalues>
@@ -1574,7 +1574,7 @@
       <node id="AZTEC WELL SERVICING AZTEC 87410 NM" label="AZTEC WELL SERVICING AZTEC 87410 NM">
         <attvalues>
           <attvalue for="0" value="4" />
-          <attvalue for="1" value="772959.5499999999" />
+          <attvalue for="1" value="772959.5499999998" />
           <attvalue for="2" value="0.0023326770364613197" />
           <attvalue for="3" value="6" />
         </attvalues>
@@ -1582,7 +1582,7 @@
       <node id="NEW YORK STATE HEALTH FACILITIES ASSOCIATION / NEW YORK STATE CENTER FOR ASSISTED LIVING ALBANY 12207 NY" label="NEW YORK STATE HEALTH FACILITIES ASSOCIATION / NEW YORK STATE CENTER FOR ASSISTED LIVING ALBANY 12207 NY">
         <attvalues>
           <attvalue for="0" value="32" />
-          <attvalue for="1" value="66654885.200000204" />
+          <attvalue for="1" value="66654885.2000002" />
           <attvalue for="2" value="0.008401468056809264" />
           <attvalue for="3" value="2" />
         </attvalues>
